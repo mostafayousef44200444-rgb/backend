@@ -1,10 +1,10 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",       // غيّر الاسم حسب ملف السيرفر بتاعك
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js",   // لتشغيل المشروع
-    "dev": "nodemon index.js"   // للتطوير مع إعادة التشغيل التلقائية
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "bcrypt": "^6.0.0",
